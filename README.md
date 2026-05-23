@@ -1,16 +1,14 @@
-## Hi there 👋
+# Arjumand Ali
 
-<!--
-**arjumand-codes/arjumand-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Arjumand Ali, a WordPress and front-end developer building responsive websites, Elementor pages, landing pages, portfolio websites, and modern UI redesigns.
 
-Here are some ideas to get you started:
+## Official Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio: https://arjumandali-xp.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/arjumand-ali/
+- Instagram: https://www.instagram.com/arjumand.codes/
+- GitHub: https://github.com/arjumand-codes
+
+## Skills
+
+HTML, CSS, JavaScript, Tailwind CSS, WordPress, Elementor, Responsive Design, UI Design, Landing Pages, Website Redesigns.
